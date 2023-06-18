@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shahed</h1>
-<h3 align="center">A Passionate Junior MERN Stack Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahed-bd71&label=Profile%20views&color=0e75b6&style=flat" alt="shahed-bd71" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, NextJS**
+- 🌱 I’m currently learning **Software Development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
